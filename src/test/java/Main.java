@@ -1,6 +1,8 @@
 import org.testng.annotations.*;
 
 public class Main {
+
+
     @BeforeClass // before(), beforeAll(),
     public void beforeClass() {
         System.out.println("before class in the class");
