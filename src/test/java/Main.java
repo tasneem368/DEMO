@@ -36,6 +36,9 @@ public class Main {
         System.out.println("after suite in the class");
     }
 }
+
+
+gitn
 //   exclution    <methods>
 //            <exclude name="should_return_user_if_the_name_contains_special_character1"/>
 //            </methods>
